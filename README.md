@@ -44,7 +44,7 @@ This project leverages data analytics to:
 
 - 🚧 **Most accidents** occurred in urban areas with high vehicle density  
 - 🌙 **Night-time accidents** are significantly higher on highways  
-- 🛣️ **Month-wise compariso** Like [November] Month has with the highest fatality rate  
+- 🛣️ **Month-wise comparison** Like [November] Month has with the highest fatality rate  
 - 🔍 **Human error** remains the top contributing factor in road accidents
 
 ---
