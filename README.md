@@ -34,7 +34,7 @@ This project leverages data analytics to:
 
 ## 🌐 Dashboard Preview
 
-![Dashboard Preview](https://your-image-link-here.com/dashboard-preview.png)
+![Dashboard Preview](Dashboard.png)
 
 > 📌 *Replace the above link with an actual hosted image link (e.g., from Imgur or GitHub itself)*
 
@@ -53,9 +53,9 @@ This project leverages data analytics to:
 
 Feel free to connect with me for collaboration or feedback:
 
-- 👤 **Your Name**  
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- 👤 **AMIT VERMA**  
+- 📧 Email: [amytverma20@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/amitverma20/]
 
 ---
 
