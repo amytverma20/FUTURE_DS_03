@@ -36,7 +36,7 @@ This project leverages data analytics to:
 
 ![Dashboard Preview](Dashboard.png)
 
-> 📌 *Replace the above link with an actual hosted image link (e.g., from Imgur or GitHub itself)*
+> 📌 *(This ia a Dashboard of Road Accident)*
 
 ---
 
@@ -44,7 +44,7 @@ This project leverages data analytics to:
 
 - 🚧 **Most accidents** occurred in urban areas with high vehicle density  
 - 🌙 **Night-time accidents** are significantly higher on highways  
-- 🛣️ **State-wise comparison** shows [StateName] with the highest fatality rate  
+- 🛣️ **Month-wise compariso** Like [November] Month has with the highest fatality rate  
 - 🔍 **Human error** remains the top contributing factor in road accidents
 
 ---
